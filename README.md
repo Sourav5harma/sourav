@@ -2,8 +2,7 @@
 this is git repository 
 step 1: Set up Git on your local machine:
         --> git config --global user.name "Your Name"
-        --> git config --global user.email "youremail@example.com"
-step 2:- Created an account on github.                                                                                                                             
+        --> git config --global user.email "youremail@example.com"                                                                                                                                                     step 2:- Created an account on github.                                                                                                                             
 step 3:- created a public repository in the github.                                                                                                                   
 step 4:- Cloned the repository from github through "git clone <repository url>" command.                                                                              
 step 5:- Created project follder.                                                                                                                                     
